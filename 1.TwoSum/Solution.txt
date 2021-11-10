@@ -1,0 +1,1 @@
+Used 2 for loops to loop through the array, add the two numbers together and if it equals the target, then we just add it to the array. Solution is O(n^2) so I will need to improve this.
